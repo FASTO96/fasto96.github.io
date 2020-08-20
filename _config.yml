@@ -1,14 +1,6 @@
-# The Site Settings
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT licensed
 
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-#--------------------------
-
-title: Chirpy                          # the main title
+title: fasto                          # the main title
 
 tagline: htb.  # it will display as the sub-title
 

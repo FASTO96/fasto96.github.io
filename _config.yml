@@ -2,7 +2,7 @@
 
 title: fasto                          # the main title
 
-tagline: htb.  # it will display as the sub-title
+tagline: htb.x  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,

@@ -12,4 +12,3 @@ end
 group :test do
   gem "html-proofer"
 end
-gem "bcrypt"

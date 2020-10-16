@@ -193,3 +193,9 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - robots.txt
     - redirects.json
 
+[...]
+
+collections:
+  protected:
+
+[...]

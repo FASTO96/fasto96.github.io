@@ -4,8 +4,10 @@ My profile : https://www.hackthebox.eu/home/users/profile/
 
 ## Sammmry :
 
+[<img src="https://pbs.twimg.com/media/Ea4eXX0XgAUs1W1.jpg:large">](http://https://pbs.twimg.com/media/Ea4eXX0XgAUs1W1.jpg:large/)
+
 ```
-linuxشغالة على easy machineعبارة عن هي Tabby
+linux شغالة على easy machine عبارة عن Tabby
 وبعد ذلك نرفع شال tomcatتمكننا من سحب كلمة سر lfi بالفحص المبدئي نجد
 الذي user نقوم بكسره ثم نستخدم كلمة السر للحصول على zip fileونبحث لنجد
 ootللحصول على alpine-builderنستخدم admو lxd بدوره ينتمي الى

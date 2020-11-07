@@ -3,8 +3,8 @@ Created by fasto
 My profile : https://www.hackthebox.eu/home/users/profile/
 
 ## Sammmry :
+![Desktop View](/img/tabby/bg.png)
 
-[<img src="https://pbs.twimg.com/media/Ea4eXX0XgAUs1W1.jpg:large">](http://https://pbs.twimg.com/media/Ea4eXX0XgAUs1W1.jpg:large/)
 
 ```
 linux شغالة على easy machine عبارة عن Tabby

@@ -5,7 +5,8 @@ CTF السلام عليكم اليوم سنحل تحدي
 VULNHUB من تحديات  
 يمكنك تحميله من هنا 
 
-[tenderfoot](https://www.vulnhub.com/entry/tenderfoot-1,581/)
+[nemesis](https://www.vulnhub.com/entry/ia-nemesis-101,582/)
+
 
 ## Walkthrough
 
@@ -24,7 +25,7 @@ VULNHUB من تحديات
 
 ## Enumeration
  نتصفح الموقع 
- 
+
   ![Desktop View](/img/nem/2.png)
 
 

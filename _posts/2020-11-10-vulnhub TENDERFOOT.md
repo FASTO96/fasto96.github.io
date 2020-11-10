@@ -28,39 +28,39 @@ gobuster dir  -u http://192.168.1.33/. -w /usr/share/wordlist/dirbuster/director
 
 ```
 
- ![Desktop View](/img/tnd/02.png)
+ ![Desktop View](/img/tnd/2.png)
 
 
 robots.txt نقوم بفتح 
 
  /hint نجد في الاسفل 
 
- ![Desktop View](/img/tnd/03.png)
+ ![Desktop View](/img/tnd/3.png)
 
    base32 نجد نص مشفر ب  /hint  عند التوجه الى 
 
-![Desktop View](/img/tnd/04.png)
+![Desktop View](/img/tnd/4.png)
 
 نقوم بفكه
 
-![Desktop View](/img/tnd/05.png)
+![Desktop View](/img/tnd/5.png)
 
   entry.js نتوجه الان الى الملف  
-![Desktop View](/img/tnd/09.png)
+![Desktop View](/img/tnd/9.png)
 
  monica نجد اسم 
  
    عند فحص سورس كود نجد نص مشفرfotocd نقوم بالتوجه الى 
 
-   ![Desktop View](/img/tnd/06.png)
+   ![Desktop View](/img/tnd/6.png)
 
   brain fuck هذا النوع من التشفير يسمى 
 
-   ![Desktop View](/img/tnd/07.png)
+   ![Desktop View](/img/tnd/7.png)
 
    نقوم بفكه 
 
-   ![Desktop View](/img/tnd/08.png)
+   ![Desktop View](/img/tnd/8.png)
 
 
  داخل النص base64  نجد

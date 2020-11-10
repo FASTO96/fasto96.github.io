@@ -65,7 +65,7 @@ ssh key نبحث داخله هل هناك
 
 ![Desktop View](/img/nem/9.png)
 
- كل مدت زمنية backup  يقوم بعمل python نجد ملف 
+ كل مدة زمنية backup  يقوم بعمل python نجد ملف 
 
 ![Desktop View](/img/nem/10.png)
 

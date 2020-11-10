@@ -11,7 +11,7 @@ VULNHUB من تحديات
 ### scanning
  nmap نبدا بفحص السيرفر ب 
 
- ![Desktop View](/img/tnd/01.png)
+ ![Desktop View](/img/tnd/1.png)
 
      نلاحظ وجود 2 بورت
 

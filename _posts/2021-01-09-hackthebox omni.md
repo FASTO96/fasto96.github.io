@@ -3,7 +3,7 @@ Created by fasto
 My profile : https://www.hackthebox.eu/home/users/profile/
 
 
-![Desktop View](/img/omn/O.jpeg)
+![Desktop View](/img/omn/0.jpeg)
 
 
 
